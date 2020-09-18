@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/endpoint/TripServiceImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/build.xml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/test/lt/viko/eif/lbucys/antrasdarbas/repository/ClientRepositoryImplTest.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/data/Trip.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/test/lt/viko/eif/lbucys/antrasdarbas/data/TripTest.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/repository/ClientRepository.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/endpoint/TripService.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/test/lt/viko/eif/lbucys/antrasdarbas/data/ClientTest.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/test/lt/viko/eif/lbucys/antrasdarbas/repository/TripRepositoryImplTest.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/data/Client.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/repository/ClientRepositoryImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/test/lt/viko/eif/lbucys/antrasdarbas/endpoint/TripServiceImplTest.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/repository/TripRepositoryImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/repository/TripRepository.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/AntrasDarbas/src/lt/viko/eif/lbucys/antrasdarbas/application/AntrasDarbas.java</file>
+        </group>
+    </open-files>
+</project-private>
